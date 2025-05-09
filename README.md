@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Additional Considerations
 - Faced error 429 several times (too many requests) and implemented a function to handle API rate limits using automatic retry.
-- Retry time is set at 10 seconds for now (works better at 60 but for the sake of running the code, reduced to 10 seconds)
+- Retry time is set at 10 seconds for now (works better at 60 but for the sake of running the code, reduced to 10 seconds).
 - This document is refined with the help of helper tools.
